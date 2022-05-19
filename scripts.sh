@@ -2,7 +2,7 @@
 export CUDA_VISIBLE_DEVICES="0"
 export PYTORCH_JIT=0
 
-rm -r output_old
+rm -r output_old LJSpeech-1.1/mels
 mv output output_old
 
 #bash scripts/prepare_dataset.sh
