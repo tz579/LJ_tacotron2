@@ -10,3 +10,4 @@ output*/
 nohup.*
 *.bin
 *.log*
+LJSpeech-1.1*.*
